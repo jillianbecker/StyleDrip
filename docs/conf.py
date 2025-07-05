@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Latest Guide McAfee'
+project = 'Guide McAfee'
 copyright = '2025'
-author = 'Tom Hungerford'
+author = 'Jillian Becker'
 
 release = '1.0'
 
